@@ -1,0 +1,26 @@
+_repo: Pieter-Maritz-der-Buernsohn-von-Transvaal_55657
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Niemann, August
+    aliases:
+    - Niemann, Wilhelm Otto August
+    - Niemann, A. (August)
+    birthdate: 1839
+    deathdate: 1919
+    gutenberg_agent_id: '790'
+    url: http://www.gutenberg.org/2009/agents/790
+    wikipedia: http://de.wikipedia.org/wiki/August_Niemann
+description: ''
+gutenberg_issued: '2017-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55657'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pieter Maritz, der Buernsohn von Transvaal
+url: http://www.gutenberg.org/ebooks/55657
